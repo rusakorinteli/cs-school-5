@@ -1,0 +1,128 @@
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+.space {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li-item {
+    display: inline-block;
+}
+.a-item-navigation {
+    font-family: 'Roboto regular';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #274C5B;
+}
+.header {
+    display: inline-block;
+    padding: 69px 845px 69px 162px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+    /* z-index: 7777; */
+}
+
+.main-bg {
+    background-color: #F9F8F8;
+}
+.photo-section{
+    /* background-color: bisque; */
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 190px; 
+}
+.main-text {
+    display: inline-block;
+    vertical-align: middle;
+    width: 671px;
+    height: 258px;
+}
+.main-image {
+    display: inline-block;
+    vertical-align: middle;
+}
+.boxes {
+    width: 1118px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    /* background-color: aqua; */
+}
+.box {
+    display: inline-block;
+    width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+}
+.size {
+    margin-right: 30px;
+}
+.first-title{
+    font-family: 'Yellowtail';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49.06px;
+    width: 208px;
+    height: 49px;
+    color: #7EB693;
+}
+.second-title {
+    font-family: 'Roboto regular';
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 58.59px;
+    width: 524px;
+    height: 118px;
+    color: #274C5B;
+    margin-top: 6px;
+    margin-bottom: 25px;
+}
+.text-font {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+    width: 671px;
+    height: 60px;
+    color: #525C60;
+}
+
+.center {
+    padding-top: 91px;
+    padding-bottom: 234px;
+}
+.text {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+    color: #525C60;
+    padding-top: 20px;
+    padding-left: 36px;
+    padding-right: 37px;
+    text-align: center;
+}
+.box-title {
+    font-family: 'Roboto regular';
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #274C5B;
+    padding-left: 22px;
+    padding-top: 29px;
+}
+.border {
+    border-radius: 30px;
+}
